@@ -1,0 +1,8 @@
+35ac200 My three fav changes
+07a61e4 Merge branch 'moreEggs'
+fae5b37 Changed gradient to blue-orange
+ebdad08 Added more eggs with different colors
+6dc902f Changed keybind to GTA San Andreas Mega Jump code
+a061c23 Changed rainbow theme to left-to-right gradient
+2fca980 Changed egg color to dark red
+1795c67 Initial Commit
